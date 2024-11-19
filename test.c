@@ -24,7 +24,6 @@ int main(void)
   printf("長方形の面積: S = %.3f\n", area);
   printf("test\n");
   printf("test4\n");
-  printf("");
 
   return 0;
 }
