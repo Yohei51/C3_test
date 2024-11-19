@@ -25,6 +25,7 @@ int main(void)
   printf("test\n");
   printf("test4\n");
   printf("test5\n");
+  printf("test6\n");
 
   return 0;
 }
