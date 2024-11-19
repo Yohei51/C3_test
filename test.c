@@ -23,6 +23,7 @@ int main(void)
   area = length_yoko * length_tate;
   printf("長方形の面積: S = %.3f\n", area);
   printf("test\n");
+  printf("test4\n");
 
   return 0;
 }
