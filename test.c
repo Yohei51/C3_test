@@ -1,5 +1,4 @@
 /*
- * C言語のサンプルプログラム - Webkaru
  * - 長方形の面積を計算 -
  */
 #include <stdio.h>
@@ -23,6 +22,7 @@ int main(void)
   /* 長方形の面積を計算・出力 */
   area = length_yoko * length_tate;
   printf("長方形の面積: S = %.3f\n", area);
+  printf("test\n");
 
   return 0;
 }
